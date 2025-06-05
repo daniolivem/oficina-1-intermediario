@@ -1,3 +1,6 @@
+// OBS.: O código está cheio de comentários pra que posteriormente eu lembre do que fiz.
+
+
 // 01 - Encontrar maior e menor número
 // Recebe entrada do usuário e converte para array de números
 // Estudar: método split(), map(), some() e spread operator (...)
