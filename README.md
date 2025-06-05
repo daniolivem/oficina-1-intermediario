@@ -1,6 +1,3 @@
-Aqui está um README.md sugerido, detalhado e didático para a Oficina 1 do Módulo Intermediário do Capacita, baseado no conteúdo fornecido:
-
----
 
 # Oficina 1 – Módulo Intermediário (Capacita)
 
@@ -67,6 +64,3 @@ Este projeto está sob licença [MIT](LICENSE).
 Desenvolvido para o Capacita – Módulo Intermediário  
 Feito por [@daniolivem](https://github.com/daniolivem)
 
----
-
-Se quiser incluir exemplos de saída, instruções detalhadas para cada atividade ou links para materiais complementares, só pedir!
